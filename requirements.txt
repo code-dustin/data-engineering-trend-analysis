@@ -1,0 +1,2 @@
+praw==7.7.0
+confluent-kafka==2.1.0
